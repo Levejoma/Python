@@ -1,2 +1,2 @@
 # Python
-Here's my projects written in python
+Here's my projects written in python.
