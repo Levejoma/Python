@@ -1,19 +1,17 @@
-# importing libraries
+#To function properly replace the YOURPATHGOESHERE placeholders.
+
 import os
 import cv2
 import numpy
 import time
-#import psutil
 from time import sleep
 from datetime import datetime
 
 
-#psutil.disk_usage(python3)
 
 
 
 
-# Defining a function motionDetection
 def motionDetection():
     # capturing video in real time
     try:
