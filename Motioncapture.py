@@ -1,3 +1,4 @@
+#This is a project of mine that records movement from a device like a webcam as .avi videos to a specified path.
 #To function properly replace the YOURPATHGOESHERE placeholders.
 
 import os
